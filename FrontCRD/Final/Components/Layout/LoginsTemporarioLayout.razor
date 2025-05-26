@@ -1,27 +1,27 @@
 ﻿@inherits LayoutComponentBase
 
+@inject NavigationManager Navigation
+
 <div>
 
-    <main style="align-content:space-between; position:relative; padding-top: 10vh;">
+    <main>
         <!-- Adicionando padding-top para garantir que a logo não sobreponha outros itens -->
-        <div class="pendente-layout">
-            <div class="Logo-branca" style="z-index:0; position: absolute; top: 0; left: 20vh; transform: translateX(-50%);">
-                <img src="/Imagens/LogoSenaiBranco..png" style="width: 35vh; height: auto;" />
-            </div>
 
-            <div style="position:absolute; top:0; left: 60vh;">
-                <h1 class="layout-title">Logins Temporários</h1>
-            </div>
-
-            <div class="container-temporario" style="top: 2vh; right: 5vh; position: fixed; z-index: 1000;">
-                <button type="button" class="botao-login-temporario">
-                    <i class="fa-solid fa-house-blank"></i>
-                </button>
-            </div>
+        <div class="container-temporario" style="top: 2vh; right: 5vh; position: fixed; z-index: 1000;">
+                <NavLink href="/" class="botao-login-temporario" title="Pagina inicial">
+                    <i class="fa-solid fa-house"></i>
+                </NavLink>
         </div>
 
         <article class="content px-4">
+            <div style="align-self:center; align-items:center;" class="Logo-branca-home">
+                <img src="/Imagens/LogoSenaiBranco..png" />
+            </div>
             @Body
         </article>
     </main>
 </div>
+
+@code{
+
+}
