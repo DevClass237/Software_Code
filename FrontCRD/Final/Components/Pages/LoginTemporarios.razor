@@ -1,19 +1,49 @@
-﻿@page "/LoginTemp"
+﻿@page "/LoginsTemp"
 @layout Components.Layout.LoginsTemporarioLayout;
 @using Final.Components;
 
 
 <div class="status-toggle">
-
-    <span class="@GetClass("Pendente")" @onclick='() => StatusSelecionado = "Pendente"'>Pendente</span>
+    <button class="@GetClass(Status.Pendente)" @onclick="SelecionarPendente">Pendente</button>
     <span class="separator">|</span>
-    <span class="@GetClass("Concluido")" @onclick='() => StatusSelecionado = "Concluido"'>Concluído</span>
+    <button class="@GetClass(Status.Concluido)" @onclick="SelecionarConcluido">Concluído</button>
+
 </div>
 
 
 <ComponenteTurnoData/>
 
-@if (StatusSelecionado == "Pendente")
+@if (StatusSelecionado == Status.Pendente)
+{
+    <div class="table-container">
+        <div class="header-row">
+            <div class="header-cell">Sala</div>
+            <div class="header-cell">Laboratório</div>
+            <div class="header-cell">Docente</div>
+            <div class="header-cell">Hora Inicio</div>
+            <div class="botao-header-cell"></div>
+        </div>
+
+        <div class="table-body-Login-Temporario-Pendente">
+            @foreach (var item in Dados)
+            {
+                <div class="body-cell">@item.Sala</div>
+                <div class="body-cell">@item.Laboratorio</div>
+                <div class="body-cell">@item.Docente</div>
+                <div class="body-cell">@item.HoraInicio</div>
+                <div class="botao-finalizar-login-temporario">
+                    <button title="Finalizar Login" style="background-color:transparent; border: none;" type="button">
+                        <i class="fa fa-key"></i>
+                    </button>
+
+                </div>
+
+
+            }
+        </div>
+    </div>
+}
+else
 {
     <div class="table-container">
         <div class="header-row">
@@ -32,35 +62,16 @@
                 <div class="body-cell">@item.Docente</div>
                 <div class="body-cell">@item.HoraInicio</div>
                 <div class="body-cell">@item.HoraFinal</div>
-
-
-            }
-        </div>
-    </div>
-}
-else
-{
-    <div class="table-container">
-        <div class="header-row">
-            <div class="header-cell">Sala</div>
-            <div class="header-cell">Laboratório</div>
-            <div class="header-cell">Docente</div>
-            <div class="header-cell">Hora Inicio</div>
-            <div class="header-cell">Hora Final</div>
-        </div>
-
-        <div class="table-body-Login-Temporario-Pendente">
-            @foreach (var item in Dados)
-            {
-                <div class="body-cell">@item.Sala</div>
-                <div class="body-cell">@item.Laboratorio</div>
-                <div class="body-cell">@item.Docente</div>
-                <div class="body-cell">@item.HoraInicio</div>
             }
         </div>
     </div>
 }
 @code {
+    private enum Status
+    {
+        Pendente,
+        Concluido
+    }
 
     public class LinhaTabela
     {
@@ -90,9 +101,26 @@ else
 
     };
 
-    private string StatusSelecionado = "Pendente";
+    private Status StatusSelecionado = Status.Pendente;
+    public void SelecionarPendente()
+    {
+        if (StatusSelecionado != Status.Pendente)
+        {
+            StatusSelecionado = Status.Pendente;
+            StateHasChanged();
+        }
+    }
 
-    private string GetClass(string status)
+    public void SelecionarConcluido()
+    {
+        if (StatusSelecionado != Status.Concluido)
+        {
+            StatusSelecionado = Status.Concluido;
+            StateHasChanged();
+        }
+    }
+
+    private string GetClass(Status status)
     {
         return status == StatusSelecionado ? "toggle-option selected" : "toggle-option";
     }
