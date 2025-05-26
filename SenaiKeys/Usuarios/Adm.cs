@@ -17,6 +17,7 @@ namespace SenaiKeys.Usuarios
         public override bool PodeRemoverEditor() => true;
         public override bool PodeCadastrarAdm() => true;
         public override bool PodeRemoverAdm() => true;
+        public override bool PodeEditarAssociacao() => true;
 
 
         public override void CadastrarDocente(string nome, int matricula, string senha, UsuarioManager manager)

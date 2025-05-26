@@ -13,6 +13,7 @@ namespace SenaiKeys.Menus {
             Console.Write("Informe a matrícula do docente a remover: ");
             int matriculaDocenteRemover = int.Parse(Console.ReadLine()!);
             usuarioLogado.RemoverDocente(matriculaDocenteRemover, manager);
+            Console.WriteLine("Docente removido com sucesso!");
         }
     }
 }

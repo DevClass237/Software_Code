@@ -28,4 +28,8 @@
     <Folder Include="Components\Pages\Pages_Editor\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MudBlazor" Version="8.6.0" />
+  </ItemGroup>
+
 </Project>

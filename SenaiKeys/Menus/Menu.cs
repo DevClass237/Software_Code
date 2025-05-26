@@ -1,13 +1,16 @@
-﻿using SenaiKeys.Usuarios;
+﻿using SenaiKeys.Salas;
+using SenaiKeys.Usuarios;
 using System.ComponentModel.Design;
 
 namespace SenaiKeys.Menus {
     public class Menu {
         private readonly UsuarioManager _manager;
+        private readonly SalaManager _salaManager;
 
-        public Menu(UsuarioManager manager)
+        public Menu(UsuarioManager manager, SalaManager salaManager)
         {
             _manager = manager;
+            _salaManager = salaManager;
         }
 
         public void Exibir()
@@ -43,6 +46,8 @@ namespace SenaiKeys.Menus {
                 Console.WriteLine($"{op++} - Remover Editor");
             if (usuarioLogado.PodeRemoverAdm())
                 Console.WriteLine($"{op++} - Remover Adm");
+            if (usuarioLogado.PodeEditarAssociacao())
+                Console.WriteLine($"{op++} - Info/Edição de Salas");
             Console.WriteLine($"{op++} - Listar Usuários");
             Console.WriteLine($"{op++} - Trocar de usuário");
             Console.WriteLine("0 - Sair");
@@ -63,6 +68,10 @@ namespace SenaiKeys.Menus {
                 MenuRemoverEditor.Executar(usuarioLogado, _manager);
             else if (usuarioLogado.PodeRemoverAdm() && opcao == $"{menuIndex++}")
                 MenuRemoverAdm.Executar(usuarioLogado, _manager);
+            else if (usuarioLogado.PodeEditarAssociacao() && opcao == $"{menuIndex++}") {
+                var menuEditarAssociacao = new MenuEditarAssociacao();
+                menuEditarAssociacao.Executar(usuarioLogado, _salaManager);
+            }
             else if (opcao == $"{menuIndex++}")
                 MenuListarUsuarios.Executar(_manager);
             else if (opcao == $"{menuIndex++}")

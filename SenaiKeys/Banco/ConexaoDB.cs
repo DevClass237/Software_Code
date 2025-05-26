@@ -8,5 +8,7 @@ namespace SenaiKeys.Banco
 {
     class ConexaoDB
     {
+
+
     }
 }

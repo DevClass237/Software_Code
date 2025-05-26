@@ -1,36 +1,32 @@
-﻿using System;
+﻿using SenaiKeys.Cursos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SenaiKeys.Academicos
-{
-  public  class Sala {
+namespace SenaiKeys.Academicos {
+    public class Sala {
 
-        private List<Sala> salas = new List<Sala>();
+
         public int Chave { get; private set; }
         public bool Status { get; private set; }
         public string Laboratorio { get; private set; }
         public int IdDocente { get; private set; }
         public int IdCurso { get; private set; }
+        public int IdTurma { get; private set; }
 
-        public Sala(int chave, bool status, string laboratorio, int idDocente, int idCurso)
+        public Sala(int chave, bool status, string laboratorio, int idDocente, int idCurso, int idTurma)
         {
             Chave = chave;
             Status = status;
             Laboratorio = laboratorio;
             IdDocente = idDocente;
             IdCurso = idCurso;
+            IdTurma = idTurma;
         }
-        public IEnumerable<Sala> ListarSalas()
-        {
-            return salas;
-        }
-        public Sala BuscarSalaPorChave(int chave)
-        {
-            return salas.FirstOrDefault(s => s.Chave == chave)!;
-        }
+
+
         public void AlterarDocente(int novoIdDocente)
         {
             IdDocente = novoIdDocente;
@@ -45,7 +41,7 @@ namespace SenaiKeys.Academicos
         }
         public void AlterarTurma(int novoIdTurma)
         {
-            IdCurso = novoIdTurma;
+            IdTurma = novoIdTurma;
         }
     }
 }
