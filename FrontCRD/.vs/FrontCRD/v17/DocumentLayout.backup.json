@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\aluno\\music\\projsenai2\\frontcrd\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\aluno\\music\\projsenai2\\frontcrd\\final\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\aluno\\music\\projsenai2\\frontcrd\\final\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\Components\\_Imports.razor",
+              "RelativeToolTip": "Final\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T20:21:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\Program.cs",
+              "RelativeDocumentMoniker": "Final\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\Program.cs",
+              "RelativeToolTip": "Final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:18:04.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Final\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T20:14:32.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

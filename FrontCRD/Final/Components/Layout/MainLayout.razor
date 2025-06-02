@@ -1,15 +1,19 @@
 ﻿@inherits LayoutComponentBase
 @inject NavigationManager Navigation
 
+<MudThemeProvider />
+<MudPopoverProvider />
+<MudDialogProvider />
+<MudSnackbarProvider />
+
 <meta charset="utf-8" />
 <div class="page">
 
     <NavMenu /> 
-
-    <div class="container-temporario"> 
-        <button class="botao-login-temporario" title="Logins temporários" @onclick="irParaloginsTemporarios" type="button">
+     <div class="container-temporario"> 
+        <MudButton Variant="Variant.Filled" class="botao-login-temporario" title="Logins temporários" @onclick="irParaloginsTemporarios" type="button">
             <i class="fas fa-user-clock"></i>
-        </button>
+        </MudButton>
     </div> 
     
     <main>

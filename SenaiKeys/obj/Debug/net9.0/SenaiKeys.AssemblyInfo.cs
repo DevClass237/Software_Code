@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SenaiKeys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd3d8295724c122260d33bb9b086a74ff21066d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SenaiKeys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SenaiKeys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

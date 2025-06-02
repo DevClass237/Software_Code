@@ -10,6 +10,7 @@ namespace SenaiKeys.Usuarios {
 
         public override bool PodeCadastrarDocente() => true;
         public override bool PodeRemoverDocente() => true;
+        public override bool PodeEditarAssociacao() => true;
 
         public override void CadastrarDocente(string nome, int matricula, string senha, UsuarioManager manager)
         {

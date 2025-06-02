@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TyAdBdCmuH00OOlkkN4DimIbICyD9G41/26M/z1iiEs=",
+  "Hash": "NZF3UTVgI8Ex+UqUrNKOIodbeSmW5GIeGhSvZAs7ip4=",
   "Source": "Final",
   "BasePath": "_content/Final",
   "Mode": "Default",
@@ -10,17 +10,59 @@
     {
       "Name": "Final\\wwwroot",
       "Source": "Final",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Final.styles.css",
+      "Identity": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmvjbof2tn",
+      "Integrity": "Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jrqzp895hu",
+      "Integrity": "weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Final.styles.css",
       "SourceId": "Final",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Final",
       "RelativePath": "Final#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +77,13 @@
       "Integrity": "WwfTHFb7pSDjy4oNuk8BfGyRb21X9S/p3Ro3EchcnME=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Final.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Final.styles.css"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final.bundle.scp.css",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final.bundle.scp.css",
       "SourceId": "Final",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Final",
       "RelativePath": "Final#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +98,13 @@
       "Integrity": "WwfTHFb7pSDjy4oNuk8BfGyRb21X9S/p3Ro3EchcnME=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\app.css",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +136,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\favicon.png",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\AproximacaoTag.png",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\AproximacaoTag.png",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "Imagens/AproximacaoTag#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\AproximacaoTag.png"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\BackGroundInicio.png",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\BackGroundInicio.png",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "Imagens/BackGroundInicio#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\BackGroundInicio.png"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\ImagemCarregamento.png",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\ImagemCarregamento.png",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "Imagens/ImagemCarregamento#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\ImagemCarregamento.png"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiAzul..png",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiAzul..png",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "Imagens/LogoSenaiAzul.#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\LogoSenaiAzul..png"
     },
     {
-      "Identity": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiBranco..png",
+      "Identity": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiBranco..png",
       "SourceId": "Final",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\",
       "BasePath": "_content/Final",
       "RelativePath": "Imagens/LogoSenaiBranco.#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -250,8 +292,172 @@
   ],
   "Endpoints": [
     {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.jrqzp895hu.js",
+      "AssetFile": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jrqzp895hu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.qmvjbof2tn.css",
+      "AssetFile": "C:\\Users\\Aluno\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmvjbof2tn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.css"
+        }
+      ]
+    },
+    {
       "Route": "app.4ho57gfo6f.css",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -272,7 +478,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 20:16:44 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -296,7 +502,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -317,7 +523,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 20:16:44 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -332,8 +538,8 @@
       ]
     },
     {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -342,7 +548,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -350,11 +556,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:54:36 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -364,7 +570,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
+          "Value": "6gzpyzhau4"
         },
         {
           "Name": "label",
@@ -372,13 +578,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -387,7 +593,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -395,11 +601,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:54:36 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -409,13 +615,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -436,7 +642,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:54:36 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -460,7 +666,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -481,7 +687,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:54:36 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -497,7 +703,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -518,7 +724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:54:36 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -542,7 +748,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -563,7 +769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:54:36 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -579,7 +785,7 @@
     },
     {
       "Route": "Final.11gijttyju.bundle.scp.css",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -600,7 +806,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:55:00 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -624,7 +830,7 @@
     },
     {
       "Route": "Final.11gijttyju.styles.css",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Final.styles.css",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Final.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -645,7 +851,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:55:00 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -669,7 +875,7 @@
     },
     {
       "Route": "Final.bundle.scp.css",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Final.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -690,7 +896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:55:00 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -706,7 +912,7 @@
     },
     {
       "Route": "Final.styles.css",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Final.styles.css",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Final.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -727,7 +933,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:55:00 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -743,7 +949,7 @@
     },
     {
       "Route": "Imagens/AproximacaoTag.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\AproximacaoTag.png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\AproximacaoTag.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -764,7 +970,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 00:00:50 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -780,7 +986,7 @@
     },
     {
       "Route": "Imagens/AproximacaoTag.t03ijunms8.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\AproximacaoTag.png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\AproximacaoTag.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -801,7 +1007,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 00:00:50 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -825,7 +1031,7 @@
     },
     {
       "Route": "Imagens/BackGroundInicio.a0g9it60en.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\BackGroundInicio.png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\BackGroundInicio.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -846,7 +1052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 23:59:47 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -870,7 +1076,7 @@
     },
     {
       "Route": "Imagens/BackGroundInicio.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\BackGroundInicio.png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\BackGroundInicio.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -891,7 +1097,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 23:59:47 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -907,7 +1113,7 @@
     },
     {
       "Route": "Imagens/ImagemCarregamento.mngcwxj7vw.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\ImagemCarregamento.png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\ImagemCarregamento.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -928,7 +1134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 00:04:35 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -952,7 +1158,7 @@
     },
     {
       "Route": "Imagens/ImagemCarregamento.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\ImagemCarregamento.png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\ImagemCarregamento.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -973,7 +1179,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 00:04:35 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -989,7 +1195,7 @@
     },
     {
       "Route": "Imagens/LogoSenaiAzul..byqss7tyis.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiAzul..png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiAzul..png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1010,7 +1216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:53:31 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1034,7 +1240,7 @@
     },
     {
       "Route": "Imagens/LogoSenaiAzul..png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiAzul..png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiAzul..png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1055,7 +1261,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:53:31 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1071,7 +1277,7 @@
     },
     {
       "Route": "Imagens/LogoSenaiBranco..png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiBranco..png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiBranco..png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1092,7 +1298,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:52:48 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1108,7 +1314,7 @@
     },
     {
       "Route": "Imagens/LogoSenaiBranco..qg31jy9poe.png",
-      "AssetFile": "C:\\Users\\willi\\Videos\\Repositorio\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiBranco..png",
+      "AssetFile": "C:\\Users\\Aluno\\Music\\ProjSenai2\\FrontCRD\\Final\\wwwroot\\Imagens\\LogoSenaiBranco..png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1129,7 +1335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:52:48 GMT"
+          "Value": "Tue, 27 May 2025 18:08:53 GMT"
         },
         {
           "Name": "Cache-Control",

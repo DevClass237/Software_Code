@@ -1,14 +1,18 @@
-﻿using System;
+﻿using SenaiKeys.Salas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SenaiKeys.Usuarios
-{
-    public class UsuarioManager  {
+namespace SenaiKeys.Usuarios {
+
+    public class UsuarioManager(UsuarioManager manager, SalaManager salaManager) {
+        private readonly UsuarioManager _manager = manager;
+        private readonly SalaManager _salaManager = salaManager;
 
         private List<Usuario> usuarios = new List<Usuario>();
+
 
         public void AdicionarUsuario(Usuario usuario)
         {
@@ -49,6 +53,7 @@ namespace SenaiKeys.Usuarios
                 usuarios.Remove(usuario);
             }
         }
+
 
     }
 
