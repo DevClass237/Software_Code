@@ -1,0 +1,9 @@
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\Imagens\AproximacaoTag.png
+wwwroot\Imagens\BackGroundInicio.png
+wwwroot\Imagens\ImagemCarregamento.png
+wwwroot\Imagens\LogoSenaiAzul..png
+wwwroot\Imagens\LogoSenaiBranco..png

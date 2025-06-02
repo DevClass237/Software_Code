@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\docentes\\tabeladocentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\docentes\\tabeladocentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pages_adm\\home_adm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pages_adm\\home_adm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabelaDocentes.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T17:42:16.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home_ADM.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T17:41:15.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

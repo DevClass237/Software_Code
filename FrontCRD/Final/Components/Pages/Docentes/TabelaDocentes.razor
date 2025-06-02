@@ -1,0 +1,115 @@
+﻿@page "/"
+@using System.Collections.Generic
+@using Final.Components;
+@layout Final.Components.Layout.DocenteLayout;
+
+
+
+<ComponentTurnoDataDocente/>
+
+<div class="table-container">
+    <div class="header-row">
+        <div class="header-cell">Sala</div>
+        <div class="header-cell">Laboratório</div>
+        <div class="header-cell">Docente</div>
+        <div class="header-cell">Curso</div>
+        <div class="header-cell">Turma</div>
+        <div class="header-cell">Retirada</div>
+    </div>
+
+    <div class="table-body-Docente">
+        @foreach (var item in Dados)
+        {
+            <div class="body-cell">@item.Sala</div>
+            <div class="body-cell">@item.Laboratorio</div>
+            <div class="body-cell">@item.Docente</div>
+            <div class="body-cell">@item.Curso</div>
+            <div class="body-cell">@item.Turma</div>
+            
+                // Busca a entrada de login para esta sala
+            var loginInfo = Logins.FirstOrDefault(l =>
+               l.Sala == item.Sala &&
+               l.Laboratorio == item.Laboratorio &&
+               l.DocenteChave == item.Docente); // Opcional: considerar outros campos para identificação única
+            
+
+            <div class="body-cell retirada-cell @GetRetiradaClass(loginInfo, item.Docente)">
+                @if (loginInfo != null)
+                {
+                    <span>@loginInfo.NomeDocenteRetirada</span>
+                }
+                else
+                {
+                    <span>Não Retirada</span>
+                }
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+
+    // Classe para representar um registro de retirada de chave
+    public class Login
+    {
+        public string Sala { get; set; }
+        public string Laboratorio { get; set; }
+        public string DocenteChave { get; set; } // O docente que está cadastrado para pegar a chave
+        public string NomeDocenteRetirada { get; set; } // O nome do docente que realmente retirou a chave
+        public DateTime DataHoraRetirada { get; set; } // Opcional: Para registrar quando foi retirada
+    }
+
+    public class LinhaTabela
+    {
+
+        public LinhaTabela(string sala, string laboratorio, string docente, string curso, string turma)
+        {
+            Sala = sala;
+            Laboratorio = laboratorio;
+            Docente = docente;
+            Curso = curso;
+            Turma = turma;
+
+        }
+
+        public string Sala { get; set; }
+        public string Laboratorio { get; set; }
+        public string Docente { get; set; }
+        public string Curso { get; set; }
+        public string Turma { get; set; }
+    }
+
+    public List<LinhaTabela> Dados = new()
+    {
+        new LinhaTabela ("A101", "Lab 1", "Prof. Ana", "Informática", "TI1" ),
+        new LinhaTabela ("B202", "Lab 2", "Prof. João", "Redes", "R2" ),
+        new LinhaTabela ("C303", "Lab 3", "Prof. Maria", "Administração", "ADM1" ),
+
+    };
+
+    // Lista de logins (quem EFETIVAMENTE pegou a chave)
+    public List<Login> Logins = new()
+    {
+        new Login { Sala = "A101", Laboratorio = "Lab 1", DocenteChave = "Prof. Ana", NomeDocenteRetirada = "Prof. Ana", DataHoraRetirada = DateTime.Now },
+        new Login { Sala = "C303", Laboratorio = "Lab 3", DocenteChave = "Prof. Maria", NomeDocenteRetirada = "Prof. Pedro", DataHoraRetirada = DateTime.Now.AddHours(-1) }
+    };
+
+    private string GetRetiradaClass(Login? loginInfo, string docenteCadastrado)
+    {
+        if (loginInfo == null)
+        {
+            // Chave não retirada
+            return "retirada-cinza";
+        }
+        else if (loginInfo.NomeDocenteRetirada == docenteCadastrado)
+        {
+            // Retirada pelo docente cadastrado
+            return "retirada-verde";
+        }
+        else
+        {
+            // Retirada por outro docente
+            return "retirada-vermelha";
+        }
+    }
+}
