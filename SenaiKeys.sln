@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenaiKeys", "SenaiKeys\SenaiKeys.csproj", "{2A96547F-C41C-453F-9745-3E345CA9CB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "FrontCRD\Final\Final.csproj", "{81F49736-A436-D562-C4B1-DD77A651AD9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2A96547F-C41C-453F-9745-3E345CA9CB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A96547F-C41C-453F-9745-3E345CA9CB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A96547F-C41C-453F-9745-3E345CA9CB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F49736-A436-D562-C4B1-DD77A651AD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F49736-A436-D562-C4B1-DD77A651AD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F49736-A436-D562-C4B1-DD77A651AD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F49736-A436-D562-C4B1-DD77A651AD9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
