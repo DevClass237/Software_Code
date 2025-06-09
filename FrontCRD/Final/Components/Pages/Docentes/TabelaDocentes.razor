@@ -1,11 +1,6 @@
-﻿@page "/"
-@using System.Collections.Generic
-@using Final.Components;
-@layout Final.Components.Layout.DocenteLayout;
+﻿@using Final.Components.Pages.Docentes
 
-
-
-<ComponentTurnoDataDocente/>
+<ComponentTurnoDataDocente />
 
 <div class="table-container">
     <div class="header-row">
@@ -25,13 +20,13 @@
             <div class="body-cell">@item.Docente</div>
             <div class="body-cell">@item.Curso</div>
             <div class="body-cell">@item.Turma</div>
-            
-                // Busca a entrada de login para esta sala
+
+            // Busca a entrada de login para esta sala
             var loginInfo = Logins.FirstOrDefault(l =>
-               l.Sala == item.Sala &&
-               l.Laboratorio == item.Laboratorio &&
-               l.DocenteChave == item.Docente); // Opcional: considerar outros campos para identificação única
-            
+            l.Sala == item.Sala &&
+            l.Laboratorio == item.Laboratorio &&
+            l.DocenteChave == item.Docente); // Opcional: considerar outros campos para identificação única
+
 
             <div class="body-cell retirada-cell @GetRetiradaClass(loginInfo, item.Docente)">
                 @if (loginInfo != null)

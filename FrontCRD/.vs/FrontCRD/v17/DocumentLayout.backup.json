@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\docentes\\tabeladocentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\docentes\\tabeladocentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pagescompartilhadas\\cadastrarprofessor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pagescompartilhadas\\cadastrarprofessor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\docentes\\registrarlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\docentes\\registrarlogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\docentes\\homedocente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\docentes\\homedocente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pages_editor\\home_editor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pages_editor\\home_editor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pages_adm\\home_adm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pages_adm\\home_adm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pagescompartilhadas\\tabelaprincipal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pagescompartilhadas\\tabelaprincipal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pagescompartilhadas\\logintemporariospendente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pagescompartilhadas\\logintemporariospendente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pagescompartilhadas\\logintemporariosconcluidos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pagescompartilhadas\\logintemporariosconcluidos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pagescompartilhadas\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pagescompartilhadas\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\reposenai\\frontcrd\\final\\components\\pages\\pagescompartilhadas\\componenteturnodata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168FE0C2-DA83-48BE-9C87-187C2CC57761}|Final\\Final.csproj|solutionrelative:final\\components\\pages\\pagescompartilhadas\\componenteturnodata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +54,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Final\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\wwwroot\\app.css",
+              "RelativeToolTip": "Final\\wwwroot\\app.css",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAABcBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-03T17:51:37.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarLogin.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Docentes\\RegistrarLogin.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\Docentes\\RegistrarLogin.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Docentes\\RegistrarLogin.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\Docentes\\RegistrarLogin.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:06:07.679Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -42,44 +105,124 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TabelaDocentes.razor",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
-              "RelativeDocumentMoniker": "Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
-              "RelativeToolTip": "Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeDocente.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Docentes\\HomeDocente.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\Docentes\\HomeDocente.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Docentes\\HomeDocente.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\Docentes\\HomeDocente.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T17:42:16.484Z",
+              "WhenOpened": "2025-06-09T00:04:32.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Home_Editor.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Pages_Editor\\Home_Editor.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\Pages_Editor\\Home_Editor.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Pages_Editor\\Home_Editor.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\Pages_Editor\\Home_Editor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:04:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TabelaPrincipal.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\TabelaPrincipal.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\PagesCompartilhadas\\TabelaPrincipal.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\TabelaPrincipal.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\PagesCompartilhadas\\TabelaPrincipal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:04:09.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarProfessor.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\CadastrarProfessor.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\PagesCompartilhadas\\CadastrarProfessor.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\CadastrarProfessor.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\PagesCompartilhadas\\CadastrarProfessor.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:00:27.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Home_ADM.razor",
               "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
               "RelativeDocumentMoniker": "Final\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
               "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
               "RelativeToolTip": "Final\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T17:41:15.296Z"
+              "WhenOpened": "2025-06-09T00:04:22.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginTemporariosPendente.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\LoginTemporariosPendente.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\PagesCompartilhadas\\LoginTemporariosPendente.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\LoginTemporariosPendente.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\PagesCompartilhadas\\LoginTemporariosPendente.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:00:58.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginTemporariosConcluidos.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\LoginTemporariosConcluidos.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\PagesCompartilhadas\\LoginTemporariosConcluidos.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\LoginTemporariosConcluidos.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\PagesCompartilhadas\\LoginTemporariosConcluidos.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:00:44.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\Login.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\PagesCompartilhadas\\Login.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\Login.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\PagesCompartilhadas\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:00:41.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComponenteTurnoData.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\ComponenteTurnoData.razor",
+              "RelativeDocumentMoniker": "Final\\Components\\Pages\\PagesCompartilhadas\\ComponenteTurnoData.razor",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\RepoSenai\\FrontCRD\\Final\\Components\\Pages\\PagesCompartilhadas\\ComponenteTurnoData.razor",
+              "RelativeToolTip": "Final\\Components\\Pages\\PagesCompartilhadas\\ComponenteTurnoData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T00:00:36.127Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,9 +1,260 @@
-/*#if (SampleContent)*/
 
+/*Estilo do texto da pagina CadastrarEditor*/
+.texto-cadastrar-editor {
+    font-size: 6vh; /* Ajuste o tamanho conforme necessário */
+    font-weight: bold;
+    text-align: center;
+    line-height: 1; /* Garante que "Login" fique diretamente abaixo de "Registrar" */
+    margin-top: 0.5vh; /* Espaço do cabeçalho */
+}
+/*estilo do popUp de CadastrarProfessor*/
+.popup-content-professor {
+    position: relative;
+    color: white;
+    background: #136db2; /* Fundo da div principal */
+    padding: 1vh 0.5vw 3vh 0.5vw;
+    border-radius: 0.5vh;
+    border: 0.2px solid black;
+    width: 60vh; /* Mais alto que largo */
+    height: 90vh; /* Mais alto que largo */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: space-around; /* Distribui o espaço entre os itens verticalmente */
+}
+
+.estilo-input-professor {
+    background-color: #fff; /* Cor de fundo */
+    border: 1px solid #ccc; /* Borda */
+    border-radius: 4px; /* Bordas arredondadas */
+    padding: 8px 12px; /* Preenchimento interno */
+    font-size: 14px; /* Tamanho da fonte */
+    width: 100%;
+    height: 9vh;
+    box-sizing: border-box; /* Inclui bordas e preenchimento no tamanho total */
+}
+
+.container-style-professor {
+    display: flex;
+    flex-direction: column; /* Alinha os itens em coluna */
+    align-items: center; /* Centraliza os itens horizontalmente */
+    justify-content: center;
+    gap: 5vh; /* Espaço entre os inputs e o botão */
+    width: 100%; /* Ocupa a largura total do conteúdo do pop-up */
+    padding: 0 2vw; /* Preenchimento horizontal */
+
+    margin-bottom: 3vh; /* Espaço da parte inferior do pop-up */
+}
+
+/*Estilo do texto da pagina RetirarChave*/
+
+.texto-retirar-chave {
+    font-size: 5vh; /* Ajuste o tamanho conforme necessário */
+    font-weight: bold;
+    text-align: center;
+    line-height: 1; /* Garante que "Login" fique diretamente abaixo de "Registrar" */
+    margin-top: 0.5vh; /* Espaço do cabeçalho */
+}
+
+/*estilo do popUp de RetirarChave*/
+.popup-content-retirar {
+    position: relative;
+    color: white;
+    background: #136db2; /* Fundo da div principal */
+    padding: 1vh 0.5vw 3vh 0.5vw;
+    border-radius: 0.5vh;
+    border: 0.2px solid black;
+    width: 60vh; /* Mais alto que largo */
+    height: 70vh; /* Mais alto que largo */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: space-around; /* Distribui o espaço entre os itens verticalmente */
+}
+
+/*Estilo do registarlogin da parte dos docentes*/
+.popup-content-registrar {
+    position: relative;
+    color: white;
+    background: #136db2; /* Fundo da div principal */
+    padding: 1vh 0.5vw 3vh 0.5vw;
+    border-radius: 0.5vh;
+    border: 0.2px solid black;
+    width: 60vh; /* Mais alto que largo */
+    height: 80vh; /* Mais alto que largo */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column; /* Alinha os itens em coluna */
+    justify-content: space-around; /* Distribui o espaço entre os itens verticalmente */
+}
+
+.texto-registrar-login {
+    font-size: 7vh; /* Ajuste o tamanho conforme necessário */
+    font-weight: bold;
+    text-align: center;
+    line-height: 1; /* Garante que "Login" fique diretamente abaixo de "Registrar" */
+    margin-top: 0.5vh; /* Espaço do cabeçalho */
+}
+
+.container-style-registrar {
+    display: flex;
+    flex-direction: column; /* Alinha os itens em coluna */
+    align-items: center; /* Centraliza os itens horizontalmente */
+    justify-content: center;
+    gap: 7vh; /* Espaço entre os inputs e o botão */
+    width: 100%; /* Ocupa a largura total do conteúdo do pop-up */
+    padding: 0 2vw; /* Preenchimento horizontal */
+    
+    margin-bottom: 3vh; /* Espaço da parte inferior do pop-up */
+    
+}
+/*----------------------------------*/
+/*Status de carregamento*/
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2vh;
+}
+
+.dot {
+    width: 2vh;
+    height: 2vh;
+    border-radius: 50%;
+    background-color: gray;
+    animation: pulse 1.2s infinite;
+}
+
+    .dot:nth-child(1) {
+        animation-delay: 0s;
+    }
+
+    .dot:nth-child(2) {
+        animation-delay: 0.2s;
+    }
+
+    .dot:nth-child(3) {
+        animation-delay: 0.4s;
+    }
+
+    .dot:nth-child(4) {
+        animation-delay: 0.6s;
+    }
+
+@keyframes pulse {
+    0%, 100% {
+        background-color: gray;
+        transform: scale(1);
+    }
+
+    50% {
+        background-color: white;
+        transform: scale(1.3);
+    }
+}
+/*-------------------*/
+/*PopUp do Cadastrar Token */
+.logo-ajustada {
+    height: 4vh !important;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.nav-link.fechar {
+    align-self: flex-start;
+    margin-left: auto;
+    padding: 0.5vh 0.5vw;
+    width: 4vh; /* Largura da bolinha */
+    height: 4vh; /* Altura da bolinha */
+    border-radius: 50%; /* Forma circular */
+    color: ghostwhite;
+    background-color: red;
+
+    display: flex; /* CENTRALIZA */
+    align-items: center; /* Alinha verticalmente */
+    justify-content: center; /* Alinha horizontalmente */
+}
+
+.popup-content {
+    position: relative;
+    color: white;
+    background: #136db2;
+    padding: 1vh 0.5vw 3vh 0.5vw; /* topo, lados, baixo, lados */
+    border-radius: 0.5vh;
+    border: 0.2px solid black;
+    width: 110vh;
+    height: 60vh;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Header com logo à esquerda e fechar à direita */
+.popup-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0.5vh 0.2vw 0 0.2vw;
+}
+
+/* Centralizar o texto no meio do popup */
+.popup-center-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+}
+
+.texto-cadastrar-token {
+    font-size: 40px;
+    font-weight:bold;
+    margin: 0;
+}
+
+/* Footer com imagem no canto inferior direito */
+.popup-footer {
+    position: absolute;
+    bottom: 1vh;
+    right: 1vh;
+}
+
+.tag-img {
+    height: 24vh; /* ajuste conforme necessário */
+    width: auto;
+}
+
+/*---------------------*/
+
+/*Classes de cadastrar token*/
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    backdrop-filter: blur(6px);
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2000;
+}
+
+.blurred-content {
+    filter: blur(5px);
+    pointer-events: none;
+}
+/*-----------------------------------*/
+html {
+    font-family: 'Neo Sans Pro';
+}
 
 html, body {
 
-    font-family: 'Neo Sans';
     background-color: #136db2;
     height:100%;
     overflow:auto;
@@ -14,11 +265,11 @@ html, body {
 .body {
     background-color: #0e5da3;
     color: white;
-    font-family: 'Neo Sans';
 }
 
 .table-container{
     overflow-x:auto; /*Permite que a tabela tenha scroll horizontal*/
+    margin-bottom: 5vh;/*Espaço entre o final da tabela e o fim da oagina*/
 }
 /*Estilo do cabeçalho*/
 .header-row {
@@ -162,15 +413,16 @@ html, body {
 }
 
 .text-input {
-    height: 10vh;
-    width: 55vh;
-    border-radius: 5px;
+    height: 9vh;
+    width: 50vh;
+    border-radius: 3px;
+    border: 2px solid transparent ;
 }
 
 .text-input:focus {
        border-color: #cad2e3; /* Cor da borda quando em foco (quando o campo é selecionado) */
        outline: none; /* Remove o contorno padrão do navegador */
-       box-shadow: 0 0 5px #232323; /* Adiciona sombra para destacar */
+       /*box-shadow: 0 0 5px #232323;*/ /* Adiciona sombra para destacar */
     }
 
 .container-style {
@@ -243,7 +495,6 @@ html, body {
     margin-top: 10vh;
     object-fit: contain;
     width: 35vh;
-    height: 100%;
     position: absolute;
 }
 
@@ -489,8 +740,6 @@ html, body {
         .status-toggle a.toggle-option:visited,
         .status-toggle a.toggle-option:hover,
         .status-toggle a.toggle-option:active {
-            /* all: unset; */ /* Manter comentada ou remover */
-            font-family: 'Neo Sans';
             font-size: 6.5vh; /* Mantenha o tamanho que você quer aqui */
             opacity: 0.7;
             transform: scale(1);
@@ -522,19 +771,21 @@ a, .btn-link {
 
 .btn-primary {
     border-radius: 15px;
-    color: black;
+    color: white;
     background-color: #39b23e;
     width: 25.2vh;
     height: 8vh;
 }
 
     .btn-primary:hover {
-        background-color:darkslategray;
+        background-color: #2f7032;
+    }
+    .btn-primary:active {
+        background-color: #2f7032;
+        border: 0 0 0;
     }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
+
 
 /*Botão da  pagina docente 'inserção manual*/
 .botao-insercao-manual {

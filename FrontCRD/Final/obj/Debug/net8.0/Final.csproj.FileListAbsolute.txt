@@ -129,3 +129,34 @@ C:\Users\willi\Videos\RepositorioSenai\FrontCRD\Final\obj\Debug\net8.0\refint\Fi
 C:\Users\willi\Videos\RepositorioSenai\FrontCRD\Final\obj\Debug\net8.0\Final.pdb
 C:\Users\willi\Videos\RepositorioSenai\FrontCRD\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
 C:\Users\willi\Videos\RepositorioSenai\FrontCRD\Final\obj\Debug\net8.0\ref\Final.dll
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\appsettings.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\Final.staticwebassets.runtime.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\Final.staticwebassets.endpoints.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\Final.exe
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\Final.deps.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\Final.runtimeconfig.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\Final.dll
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\bin\Debug\net8.0\Final.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.sourcelink.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\scopedcss\bundle\Final.styles.css
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets\msbuild.Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets\msbuild.Final.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets\msbuild.build.Final.props
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Final.props
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Final.props
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.dll
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\refint\Final.dll
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Área de Trabalho\RepoSenai\FrontCRD\Final\obj\Debug\net8.0\ref\Final.dll

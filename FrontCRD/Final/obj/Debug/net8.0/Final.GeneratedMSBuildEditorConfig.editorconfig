@@ -24,12 +24,8 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/ComponenteTurnoData.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wb25lbnRlVHVybm9EYXRhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/ComponentTurnoDataDocente.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wb25lbnRUdXJub0RhdGFEb2NlbnRlLnJhem9y
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Layout/DocenteLayout.razor]
@@ -60,24 +56,48 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudUVkaXRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/Docentes/ComponentTurnoDataDocente.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xDb21wb25lbnRUdXJub0RhdGFEb2NlbnRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/Docentes/HomeDocente.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xIb21lRG9jZW50ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/Docentes/RegistrarLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xSZWdpc3RyYXJMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/Docentes/RetirarChave.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xSZXRpcmFyQ2hhdmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/Docentes/TabelaDocentes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xUYWJlbGFEb2NlbnRlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/PagesCompartilhadas/CadastrarProfessor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXENhZGFzdHJhclByb2Zlc3Nvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/Login.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/PagesCompartilhadas/ComponenteTurnoData.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXENvbXBvbmVudGVUdXJub0RhdGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/LoginTemporariosConcluidos.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpblRlbXBvcmFyaW9zQ29uY2x1aWRvcy5yYXpvcg==
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/PagesCompartilhadas/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXExvZ2luLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/LoginTemporariosPendente.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpblRlbXBvcmFyaW9zUGVuZGVudGUucmF6b3I=
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/PagesCompartilhadas/LoginTemporariosConcluidos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXExvZ2luVGVtcG9yYXJpb3NDb25jbHVpZG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/PagesCompartilhadas/LoginTemporariosPendente.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXExvZ2luVGVtcG9yYXJpb3NQZW5kZW50ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/PagesCompartilhadas/TabelaPrincipal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXFRhYmVsYVByaW5jaXBhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/willi/OneDrive/Área de Trabalho/RepoSenai/FrontCRD/Final/Components/Pages/Pages_ADM/CadastrarEditor.razor]
