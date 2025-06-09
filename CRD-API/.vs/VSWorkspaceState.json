@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\Controllers",
+    "\\Data",
+    "\\DTO",
+    "\\Migrations",
+    "\\Modelo",
+    "\\obj",
+    "\\Properties"
+  ],
+  "PreviewInSolutionExplorer": false
+}

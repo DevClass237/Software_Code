@@ -1,0 +1,37 @@
+﻿@page "/RegistrarLogin"
+@using System.Collections.Generic
+@using CRD_WEB.Components;
+@layout CRD_WEB.Components.Layout.DocenteLayout;
+
+
+<div class="popup-overlay">
+    <div class="popup-content-registrar">
+        <div class="popup-header">
+            <img src="/Imagens/LogoSenaiBranco..png" class="logo-ajustada" alt="Logo Senai" />
+
+            <NavLink href="/" class="nav-link fechar">
+                <i class="fas fa-times" style="color: ghostwhite;"></i>
+            </NavLink>
+        </div>
+
+        <div class="popup-center-text">
+            <div class="texto-registrar-login">
+                Registrar<br />Login
+            </div>
+        </div>
+
+        <div class="container-style-registrar">
+            <InputText class="text-input" id="matricula" @bind-Value="matricula" placeholder="Digite sua Matrícula" />
+            <InputText class="text-input" id="senha" @bind-Value="senha" placeholder="Digite sua Senha" />
+
+            <button class="btn-primary">Registrar</button>
+        </div>
+    </div>
+</div>
+
+<TabelaDocentes />
+
+@code {
+    private string matricula;
+    private string senha;
+}

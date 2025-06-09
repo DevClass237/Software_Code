@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenaiKeys", "SenaiKeys\SenaiKeys.csproj", "{2A96547F-C41C-453F-9745-3E345CA9CB99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRD-SQL", "CRD-SQL\CRD-SQL.csproj", "{CD01DE0C-BE2D-7532-33E2-87E4EF352C2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "FrontCRD\Final\Final.csproj", "{81F49736-A436-D562-C4B1-DD77A651AD9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRD-API", "CRD-API\CRD-API.csproj", "{9C51632A-258F-C683-224E-2891B2AC1C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRD-WEB", "CRD-WEB\CRD-WEB.csproj", "{9A9209AF-B0C9-F14F-3408-75466DCD0A27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2A96547F-C41C-453F-9745-3E345CA9CB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A96547F-C41C-453F-9745-3E345CA9CB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A96547F-C41C-453F-9745-3E345CA9CB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A96547F-C41C-453F-9745-3E345CA9CB99}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81F49736-A436-D562-C4B1-DD77A651AD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81F49736-A436-D562-C4B1-DD77A651AD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81F49736-A436-D562-C4B1-DD77A651AD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81F49736-A436-D562-C4B1-DD77A651AD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD01DE0C-BE2D-7532-33E2-87E4EF352C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD01DE0C-BE2D-7532-33E2-87E4EF352C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD01DE0C-BE2D-7532-33E2-87E4EF352C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD01DE0C-BE2D-7532-33E2-87E4EF352C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C51632A-258F-C683-224E-2891B2AC1C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C51632A-258F-C683-224E-2891B2AC1C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C51632A-258F-C683-224E-2891B2AC1C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C51632A-258F-C683-224E-2891B2AC1C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9209AF-B0C9-F14F-3408-75466DCD0A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9209AF-B0C9-F14F-3408-75466DCD0A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9209AF-B0C9-F14F-3408-75466DCD0A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9209AF-B0C9-F14F-3408-75466DCD0A27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

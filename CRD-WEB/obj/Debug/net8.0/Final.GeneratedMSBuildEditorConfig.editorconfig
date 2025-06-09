@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Final
+build_property.RootNamespace = Final
+build_property.ProjectDir = C:\Users\Aluno\Documents\CRD-Project\FrontCRD\Final\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\Documents\CRD-Project\FrontCRD\Final
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Layout/DocenteLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRG9jZW50ZUxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Layout/EditorLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRWRpdG9yTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Layout/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTG9naW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Layout/LoginsTemporarioLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTG9naW5zVGVtcG9yYXJpb0xheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Layout/NavMenuEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudUVkaXRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Docentes/ComponentTurnoDataDocente.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xDb21wb25lbnRUdXJub0RhdGFEb2NlbnRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Docentes/HomeDocente.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xIb21lRG9jZW50ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Docentes/RegistrarLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xSZWdpc3RyYXJMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Docentes/RetirarChave.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xSZXRpcmFyQ2hhdmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Docentes/TabelaDocentes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2NlbnRlc1xUYWJlbGFEb2NlbnRlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/PagesCompartilhadas/CadastrarProfessor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXENhZGFzdHJhclByb2Zlc3Nvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/PagesCompartilhadas/ComponenteTurnoData.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXENvbXBvbmVudGVUdXJub0RhdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/PagesCompartilhadas/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/PagesCompartilhadas/LoginTemporariosConcluidos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXExvZ2luVGVtcG9yYXJpb3NDb25jbHVpZG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/PagesCompartilhadas/LoginTemporariosPendente.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXExvZ2luVGVtcG9yYXJpb3NQZW5kZW50ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/PagesCompartilhadas/TabelaPrincipal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc0NvbXBhcnRpbGhhZGFzXFRhYmVsYVByaW5jaXBhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Pages_ADM/CadastrarEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc19BRE1cQ2FkYXN0cmFyRWRpdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Pages_ADM/CadastrarToken.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc19BRE1cQ2FkYXN0cmFyVG9rZW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Pages_ADM/Home_ADM.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc19BRE1cSG9tZV9BRE0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Pages/Pages_Editor/Home_Editor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlc19FZGl0b3JcSG9tZV9FZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Documents/CRD-Project/FrontCRD/Final/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 

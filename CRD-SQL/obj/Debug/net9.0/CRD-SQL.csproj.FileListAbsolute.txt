@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\bin\Debug\net9.0\CRD-SQL.exe
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\bin\Debug\net9.0\CRD-SQL.deps.json
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\bin\Debug\net9.0\CRD-SQL.runtimeconfig.json
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\bin\Debug\net9.0\CRD-SQL.dll
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\bin\Debug\net9.0\CRD-SQL.pdb
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\CRD-SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\CRD-SQL.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\CRD-SQL.AssemblyInfo.cs
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\CRD-SQL.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\CRD-SQL.sourcelink.json
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\CRD-SQL.dll
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\refint\CRD-SQL.dll
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\CRD-SQL.pdb
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\CRD-SQL.genruntimeconfig.cache
+C:\Users\Aluno\Documents\CRD-Project\CRD-SQL\obj\Debug\net9.0\ref\CRD-SQL.dll

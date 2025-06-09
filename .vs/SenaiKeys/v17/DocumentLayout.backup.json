@@ -1,54 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Music\\projSenai2\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\CRD-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\aluno\\documents\\crd-project\\crd-web\\components\\pages\\pages_adm\\cadastrartoken.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\pages\\pages_adm\\cadastrartoken.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\banco\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\banco\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\aluno\\documents\\crd-project\\crd-web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\academicos\\academicomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\academicos\\academicomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\academicos\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\academicos\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\academicos\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\academicos\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\menus\\menueditarassociacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\menus\\menueditarassociacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\menus\\menuremoverdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\menus\\menuremoverdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\usuarios\\usuariomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\usuarios\\usuariomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\academicos\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\academicos\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|c:\\users\\aluno\\music\\projsenai2\\senaikeys\\usuarios\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A96547F-C41C-453F-9745-3E345CA9CB99}|SenaiKeys\\SenaiKeys.csproj|solutionrelative:senaikeys\\usuarios\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\aluno\\documents\\crd-project\\crd-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,213 +21,69 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "DockedWidth": 1927,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConexaoDB.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Banco\\ConexaoDB.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Banco\\ConexaoDB.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Banco\\ConexaoDB.cs",
-              "RelativeToolTip": "SenaiKeys\\Banco\\ConexaoDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T18:26:07.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuRemoverDocente.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Menus\\MenuRemoverDocente.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Menus\\MenuRemoverDocente.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Menus\\MenuRemoverDocente.cs",
-              "RelativeToolTip": "SenaiKeys\\Menus\\MenuRemoverDocente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:25:37.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioManager.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Usuarios\\UsuarioManager.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Usuarios\\UsuarioManager.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Usuarios\\UsuarioManager.cs",
-              "RelativeToolTip": "SenaiKeys\\Usuarios\\UsuarioManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:13:34.378Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Usuarios\\Usuario.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Usuarios\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Usuarios\\Usuario.cs",
-              "RelativeToolTip": "SenaiKeys\\Usuarios\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:13:20.104Z",
+              "Title": "CadastrarToken.razor",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Components\\Pages\\Pages_ADM\\CadastrarToken.razor",
+              "RelativeDocumentMoniker": "CRD-WEB\\Components\\Pages\\Pages_ADM\\CadastrarToken.razor",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Components\\Pages\\Pages_ADM\\CadastrarToken.razor",
+              "RelativeToolTip": "CRD-WEB\\Components\\Pages\\Pages_ADM\\CadastrarToken.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T20:04:18.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Editor.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Usuarios\\Editor.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Usuarios\\Editor.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Usuarios\\Editor.cs",
-              "RelativeToolTip": "SenaiKeys\\Usuarios\\Editor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:13:14.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Menus\\Menu.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Menus\\Menu.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Menus\\Menu.cs",
-              "RelativeToolTip": "SenaiKeys\\Menus\\Menu.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwDEAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:12:24.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Turma.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Academicos\\Turma.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Academicos\\Turma.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Academicos\\Turma.cs",
-              "RelativeToolTip": "SenaiKeys\\Academicos\\Turma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:11:58.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Sala.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Academicos\\Sala.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Academicos\\Sala.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Academicos\\Sala.cs",
-              "RelativeToolTip": "SenaiKeys\\Academicos\\Sala.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:11:38.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Program.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Program.cs",
-              "RelativeToolTip": "SenaiKeys\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:13:53.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Academicos\\Curso.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Academicos\\Curso.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Academicos\\Curso.cs",
-              "RelativeToolTip": "SenaiKeys\\Academicos\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:11:12.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuEditarAssociacao.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Menus\\MenuEditarAssociacao.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Menus\\MenuEditarAssociacao.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Menus\\MenuEditarAssociacao.cs",
-              "RelativeToolTip": "SenaiKeys\\Menus\\MenuEditarAssociacao.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAiwFoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:12:45.35Z"
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "CRD-WEB\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Components\\_Imports.razor",
+              "RelativeToolTip": "CRD-WEB\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T20:04:14.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AcademicoManager.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Academicos\\AcademicoManager.cs",
-              "RelativeDocumentMoniker": "SenaiKeys\\Academicos\\AcademicoManager.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Music\\projSenai2\\SenaiKeys\\Academicos\\AcademicoManager.cs",
-              "RelativeToolTip": "SenaiKeys\\Academicos\\AcademicoManager.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwv1QAAABAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Program.cs",
+              "RelativeDocumentMoniker": "CRD-WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Program.cs",
+              "RelativeToolTip": "CRD-WEB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T18:09:20.443Z"
+              "WhenOpened": "2025-06-09T20:01:59.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1927,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
