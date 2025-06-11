@@ -1,26 +1,37 @@
-﻿@page "/Login"
+﻿@page "/"
 
 @layout Components.Layout.LoginLayout
+@inject NavigationManager Navigation
+@using System.ComponentModel.DataAnnotations
 
-<div class="background-login">
-    
-    <div class="background-inicio-content">
 
-        <div class="container-style">
 
-            <div class="Logo-branca">
-                <img src='/Imagens/LogoSenaiBranco.png' />
+
+    <div class="background-login">
+
+        <div class="background-inicio-content">
+
+            <div class="container-style">
+
+                <div class="Logo-branca">
+                    <img src='/Imagens/LogoSenaiBranco.png' />
+                </div>
+
+                <InputText class="text-input" id="matricula" @bind-Value="matricula" placeholder="Digite sua Matrícula" />
+
+                <InputText class="text-input" type="password"  id="senha" @bind-Value="senha" placeholder="Digite sua Senha" />
+
+                <button type="submit" class="btn-primary">Entrar</button>
+
             </div>
-
-            <InputText class="text-input" id="matricula" @bind-Value="matricula" placeholder="Digite sua Matricula" />
-            <InputText class="text-input" id="senha" @bind-Value="senha" placeholder="Digite sua Senha" />
-
-            <button class="btn-primary">Entrar</button>
         </div>
     </div>
-</div>
+
 
 @code {
     private string matricula;
     private string senha;
 }
+
+
+    

@@ -198,6 +198,7 @@
     justify-content: space-between;
     align-items: flex-start;
     padding: 0.5vh 0.2vw 0 0.2vw;
+    font-size: 2.5vh;
 }
 
 /* Centralizar o texto no meio do popup */
@@ -210,7 +211,7 @@
 }
 
 .texto-cadastrar-token {
-    font-size: 40px;
+    font-size: 9vh;
     font-weight:bold;
     margin: 0;
 }
@@ -417,6 +418,7 @@ html, body {
     width: 50vh;
     border-radius: 3px;
     border: 2px solid transparent ;
+    font-size: 2vh;
 }
 
 .text-input:focus {
@@ -775,6 +777,7 @@ a, .btn-link {
     background-color: #39b23e;
     width: 25.2vh;
     height: 8vh;
+    font-size:3vh;
 }
 
     .btn-primary:hover {
@@ -803,7 +806,7 @@ a, .btn-link {
     }
 
 /*Botão dos login temporarios*/
-    .botao-login-temporario {
+.botao-login-temporario {
     align-self:start;
     background-color: white;
     color: #fd440f;

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4ONTnfVeQSagfAp4f/unwGTnk7o2JcqZOTaapzC9cX8=",
+  "Hash": "4TMiGPZ01f3iFMAQqz6Wrt51nuz2ryUiBLQr0cdGIck=",
   "Source": "CRD-WEB",
   "BasePath": "_content/CRD-WEB",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRD-WEB\\wwwroot",
       "Source": "CRD-WEB",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\app.css",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -31,17 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9spo86x1oh",
-      "Integrity": "dzcmB1Q8WKiEjlpIkpxwWQIHcutrCOLWa7TJlzemAU8=",
+      "Fingerprint": "vt9tyyvi70",
+      "Integrity": "/Y4PRjzwBSHxx693q0WN1/HF5pGhFW3Fc0p5GnJNQSM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\favicon.png",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\AproximacaoTag.png",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\AproximacaoTag.png",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "Imagens/AproximacaoTag#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\AproximacaoTag.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\BackGroundInicio.png",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\BackGroundInicio.png",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "Imagens/BackGroundInicio#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\BackGroundInicio.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\ImagemCarregamento.png",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\ImagemCarregamento.png",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "Imagens/ImagemCarregamento#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\ImagemCarregamento.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiAzul..png",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiAzul..png",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "Imagens/LogoSenaiAzul.#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\LogoSenaiAzul..png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiBranco..png",
+      "Identity": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiBranco..png",
       "SourceId": "CRD-WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\",
       "BasePath": "_content/CRD-WEB",
       "RelativePath": "Imagens/LogoSenaiBranco.#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -208,53 +208,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "app.9spo86x1oh.css",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26538"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dzcmB1Q8WKiEjlpIkpxwWQIHcutrCOLWa7TJlzemAU8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9spo86x1oh"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dzcmB1Q8WKiEjlpIkpxwWQIHcutrCOLWa7TJlzemAU8="
-        }
-      ]
-    },
-    {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -263,7 +218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26538"
+          "Value": "26597"
         },
         {
           "Name": "Content-Type",
@@ -271,11 +226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dzcmB1Q8WKiEjlpIkpxwWQIHcutrCOLWa7TJlzemAU8=\""
+          "Value": "\"/Y4PRjzwBSHxx693q0WN1/HF5pGhFW3Fc0p5GnJNQSM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 18:13:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -285,13 +240,58 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dzcmB1Q8WKiEjlpIkpxwWQIHcutrCOLWa7TJlzemAU8="
+          "Value": "sha256-/Y4PRjzwBSHxx693q0WN1/HF5pGhFW3Fc0p5GnJNQSM="
+        }
+      ]
+    },
+    {
+      "Route": "app.vt9tyyvi70.css",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Y4PRjzwBSHxx693q0WN1/HF5pGhFW3Fc0p5GnJNQSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 18:13:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vt9tyyvi70"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Y4PRjzwBSHxx693q0WN1/HF5pGhFW3Fc0p5GnJNQSM="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -312,7 +312,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -336,7 +336,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -357,7 +357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -373,7 +373,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -394,7 +394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -418,7 +418,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -439,7 +439,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -455,7 +455,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -476,7 +476,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -500,7 +500,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -521,7 +521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -537,7 +537,7 @@
     },
     {
       "Route": "Imagens/AproximacaoTag.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\AproximacaoTag.png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\AproximacaoTag.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -558,7 +558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -574,7 +574,7 @@
     },
     {
       "Route": "Imagens/AproximacaoTag.t03ijunms8.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\AproximacaoTag.png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\AproximacaoTag.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -595,7 +595,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -619,7 +619,7 @@
     },
     {
       "Route": "Imagens/BackGroundInicio.a0g9it60en.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\BackGroundInicio.png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\BackGroundInicio.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -640,7 +640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -664,7 +664,7 @@
     },
     {
       "Route": "Imagens/BackGroundInicio.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\BackGroundInicio.png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\BackGroundInicio.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -685,7 +685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -701,7 +701,7 @@
     },
     {
       "Route": "Imagens/ImagemCarregamento.mngcwxj7vw.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\ImagemCarregamento.png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\ImagemCarregamento.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -722,7 +722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -746,7 +746,7 @@
     },
     {
       "Route": "Imagens/ImagemCarregamento.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\ImagemCarregamento.png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\ImagemCarregamento.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -767,7 +767,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -783,7 +783,7 @@
     },
     {
       "Route": "Imagens/LogoSenaiAzul..byqss7tyis.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiAzul..png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiAzul..png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -804,7 +804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -828,7 +828,7 @@
     },
     {
       "Route": "Imagens/LogoSenaiAzul..png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiAzul..png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiAzul..png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -849,7 +849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -865,7 +865,7 @@
     },
     {
       "Route": "Imagens/LogoSenaiBranco..png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiBranco..png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiBranco..png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -886,7 +886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -902,7 +902,7 @@
     },
     {
       "Route": "Imagens/LogoSenaiBranco..qg31jy9poe.png",
-      "AssetFile": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiBranco..png",
+      "AssetFile": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\Imagens\\LogoSenaiBranco..png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -923,7 +923,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 18:36:45 GMT"
+          "Value": "Tue, 10 Jun 2025 17:45:16 GMT"
         },
         {
           "Name": "Cache-Control",

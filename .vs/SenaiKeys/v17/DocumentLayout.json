@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\CRD-Project\\",
+  "WorkspaceRootPath": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C51632A-258F-C683-224E-2891B2AC1C40}|CRD-API\\CRD-API.csproj|c:\\users\\aluno\\documents\\crd-project\\crd-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C51632A-258F-C683-224E-2891B2AC1C40}|CRD-API\\CRD-API.csproj|solutionrelative:crd-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\willi\\music\\repositoriosenaicrd\\crd-web\\components\\pages\\pagescompartilhadas\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\pages\\pagescompartilhadas\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\aluno\\documents\\crd-project\\crd-web\\components\\pages\\pages_adm\\cadastrartoken.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\pages\\pages_adm\\cadastrartoken.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\willi\\music\\repositoriosenaicrd\\crd-web\\components\\layout\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\layout\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\aluno\\documents\\crd-project\\crd-web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\willi\\music\\repositoriosenaicrd\\crd-web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\aluno\\documents\\crd-project\\crd-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\willi\\music\\repositoriosenaicrd\\crd-web\\components\\pages\\pages_editor\\home_editor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\pages\\pages_editor\\home_editor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\willi\\music\\repositoriosenaicrd\\crd-web\\components\\pages\\pages_adm\\home_adm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\pages\\pages_adm\\home_adm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|c:\\users\\willi\\music\\repositoriosenaicrd\\crd-web\\components\\pages\\docentes\\homedocente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9209AF-B0C9-F14F-3408-75466DCD0A27}|CRD-WEB\\CRD-WEB.csproj|solutionrelative:crd-web\\components\\pages\\docentes\\homedocente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1927,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-API\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CRD-API\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-API\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "CRD-API\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:05:33.467Z",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "CRD-WEB\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\wwwroot\\app.css",
+              "RelativeToolTip": "CRD-WEB\\wwwroot\\app.css",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAiwJ8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T17:46:04.45Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CadastrarToken.razor",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Components\\Pages\\Pages_ADM\\CadastrarToken.razor",
-              "RelativeDocumentMoniker": "CRD-WEB\\Components\\Pages\\Pages_ADM\\CadastrarToken.razor",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Components\\Pages\\Pages_ADM\\CadastrarToken.razor",
-              "RelativeToolTip": "CRD-WEB\\Components\\Pages\\Pages_ADM\\CadastrarToken.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Title": "LoginLayout.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Layout\\LoginLayout.razor",
+              "RelativeDocumentMoniker": "CRD-WEB\\Components\\Layout\\LoginLayout.razor",
+              "ToolTip": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Layout\\LoginLayout.razor",
+              "RelativeToolTip": "CRD-WEB\\Components\\Layout\\LoginLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-09T20:04:18.8Z",
+              "WhenOpened": "2025-06-11T18:10:45.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "CRD-WEB\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Components\\_Imports.razor",
-              "RelativeToolTip": "CRD-WEB\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Pages\\PagesCompartilhadas\\Login.razor",
+              "RelativeDocumentMoniker": "CRD-WEB\\Components\\Pages\\PagesCompartilhadas\\Login.razor",
+              "ToolTip": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Pages\\PagesCompartilhadas\\Login.razor",
+              "RelativeToolTip": "CRD-WEB\\Components\\Pages\\PagesCompartilhadas\\Login.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-09T20:04:14.455Z",
+              "WhenOpened": "2025-06-10T18:29:48.648Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeDocente.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Pages\\Docentes\\HomeDocente.razor",
+              "RelativeDocumentMoniker": "CRD-WEB\\Components\\Pages\\Docentes\\HomeDocente.razor",
+              "ToolTip": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Pages\\Docentes\\HomeDocente.razor",
+              "RelativeToolTip": "CRD-WEB\\Components\\Pages\\Docentes\\HomeDocente.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T18:28:33.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home_ADM.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
+              "RelativeDocumentMoniker": "CRD-WEB\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
+              "ToolTip": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
+              "RelativeToolTip": "CRD-WEB\\Components\\Pages\\Pages_ADM\\Home_ADM.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T18:15:28.73Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Program.cs",
-              "RelativeDocumentMoniker": "CRD-WEB\\Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\CRD-Project\\CRD-WEB\\Program.cs",
-              "RelativeToolTip": "CRD-WEB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:01:59.218Z",
+              "Title": "Home_Editor.razor",
+              "DocumentMoniker": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Pages\\Pages_Editor\\Home_Editor.razor",
+              "RelativeDocumentMoniker": "CRD-WEB\\Components\\Pages\\Pages_Editor\\Home_Editor.razor",
+              "ToolTip": "C:\\Users\\willi\\Music\\RepositorioSenaiCRD\\CRD-WEB\\Components\\Pages\\Pages_Editor\\Home_Editor.razor",
+              "RelativeToolTip": "CRD-WEB\\Components\\Pages\\Pages_Editor\\Home_Editor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T18:15:21.531Z",
               "EditorCaption": ""
             }
           ]

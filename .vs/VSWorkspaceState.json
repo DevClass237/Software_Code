@@ -1,12 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\FrontCRD",
-    "\\FrontCRD\\Final",
-    "\\FrontCRD\\Final\\Components",
-    "\\FrontCRD\\Final\\Components\\Pages",
-    "\\FrontCRD\\Final\\Components\\Pages\\Docentes"
+    ""
   ],
-  "SelectedNode": "\\FrontCRD\\Final\\Components\\Pages\\Docentes\\TabelaDocentes.razor",
   "PreviewInSolutionExplorer": false
 }
